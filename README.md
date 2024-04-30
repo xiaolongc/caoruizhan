@@ -1,6 +1,6 @@
 # js实现2048小游戏 🎮
 
-演示地址：[https://nnngu.github.io/js_game_2048/index.html](https://nnngu.github.io/js_game_2048/index.html)
+演示地址：[https://xiaolongc.github.io/caoruizhan/index.html]
 
 ## 1、游戏简介
 
